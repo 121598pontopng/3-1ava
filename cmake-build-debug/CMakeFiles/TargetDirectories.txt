@@ -1,0 +1,3 @@
+C:/Users/ander/CLionProjects/lab3 1ava/cmake-build-debug/CMakeFiles/lab3_1ava.dir
+C:/Users/ander/CLionProjects/lab3 1ava/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ander/CLionProjects/lab3 1ava/cmake-build-debug/CMakeFiles/rebuild_cache.dir
